@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Umar Ali
+- 👀 I’m interested in Java, Python, JavaScript, HTML, CSS, Chess, Robotics, Basketball, etc..
+- 🌱 I’m currently a student pursuing a Bachelor's Degree at THE University of Illinois Urbana-Champaign (I-L-L)🗣️🥂
+- 💞️ I’m looking for an internship in Software Engineering, Cybersecurity, or anything tech related
+- 📫 Feel free to message me on linkedin for inquiries
+- https://www.linkedin.com/in/umar-mo-ali/
+- ⚡ Fun fact: I have played basketball on the United Center before 🏀🏀🏀
